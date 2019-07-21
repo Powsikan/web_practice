@@ -1,0 +1,183 @@
+.header{
+	background-color: #EBC9CA;
+
+	height: 10px;
+	color:#E33336;
+	padding: 10px;
+	text-align:center;
+}
+.navi{
+	
+	background-color:#131212;
+	color: aliceblue;
+	margin-top: -1px;
+	padding:1px;
+	height: 3%;
+	
+}
+.navi ul li{
+	display: inline;
+	padding-left: 115px;
+	padding-top: 10px;
+}
+.navi ul li a{
+	text-decoration: none;
+	color: aliceblue;
+}
+.contant{
+	width: 80%;
+	margin: 0 auto;
+	
+}
+.index{
+width: 80%;
+	margin: 0 auto;
+	border: solid;
+}
+.home{
+	
+}
+.desti{
+	width: 80%;
+	margin: 0 auto;
+}
+
+footer{
+	text-align: center;
+	background-color: #B1ACAC;
+	color: #121111;
+	padding: 5px;
+	
+}
+.imgbox{
+
+	 content: "";
+  clear: both;
+  display: table;
+  
+}
+.bx{
+	float: left;
+	padding: 5px;
+}
+.bx figcaption{
+	font-size: 13px;
+  text-align: center;
+	
+}
+.section3{
+	background-color: #5798F3;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.section3 h1{
+	color: red;
+}
+.section3 h3{
+	color: #094273;
+	font-style: italic;
+}
+.sec3_left{
+	float: left;
+	background-color: #EECFD0;
+	width: 50%;
+}
+.sec3_right{
+	float: right;
+	background-color:#1216DC;
+	width: 50%;color: aliceblue;
+	padding-bottom:  45px;
+
+}
+.sec3_right p{
+	padding: 2px 20px 0px 20px;
+}
+.sec3_left h3{
+	color: #1A0FD5;
+	font-style: italic;
+}
+.dest_imgbox{
+	 content: "";
+  clear: both;
+  display: table;
+	background-color: #9B9898;
+	width: 850px;
+	margin-top: 10px;
+	margin-left: 3px;
+	
+
+}
+.dest_img{
+	float: left;
+	
+	width: 200px;
+	align-items: center;
+	background-color: aliceblue;
+	margin: 5px;
+	margin-left: 6px;
+}
+.image{
+	width: 150px;
+	height: 100px;
+	margin-left: 23px;
+	
+}
+.dest_img p{
+	font-size: 7px;
+	text-align: center;
+}
+.dest_img figcaption{
+	text-align: center;
+	color: #212F97;
+	text-transform: uppercase;
+	font-style: italic;
+}
+.more{
+	width: 200px;
+	background-color: #0B14CD;
+	text-align: center;
+	color: aliceblue;
+}
+.more2{
+	width: 200px;
+	background-color:#E66A06;
+	text-align: center;
+	color: aliceblue;
+}
+.form1{
+	
+	color: #2E0111;
+	font-size: 10px;
+	width: 450px;
+	float: left;
+	background-color: white;
+	
+}
+.form2{
+	
+	color: #2E0111;
+	font-size: 10px;
+	
+	
+}
+.form2 div{
+	background-color: #EF9D9F;
+	text-align: center;
+}
+h1{
+	color: red;
+}
+ .form1 p{
+	color:darkred;
+	 font-size: 15px;
+}
+.form2 p{
+	color:darkred;
+	 font-size: 15px;
+}
+.form2 input{
+	color:blueviolet;
+	font-size: 10px;
+	text-transform: uppercase;
+}
+
